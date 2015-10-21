@@ -48,14 +48,14 @@ To import one of these solutions into the game:
 | _18_ | _Sabbatical Beach Paradise_ | &ndash; | &ndash; |
 | 19 | Countdown | [10/10](19-Countdown.size.asm) by [@hermanprawiro](https://github.com/hermanprawiro) | [65/82](19-Countdown.speed.asm) by [@Gimlao](https://github.com/Gimlao) |
 | 20 | Multiplication Workshop | [15/15](20-Multiplication-Workshop.size.asm) | [73/109](20-Multiplication-Workshop.speed.asm) by [@szubster](https://github.com/szubster) |
-| 21 | Zero Terminated Sum | [10/10](21-Zero-Terminated-Sum.size.asm) by [@Ferwex](https://github.com/Ferwex) | [65/72](21-Zero-Terminated-Sum.speed.asm) by [@AlanDeSmet](https://github.com/AlanDeSmet)|
+| 21 | Zero Terminated Sum | [9/10](21-Zero-Terminated-Sum.size.asm) by [@albertferras](https://github.com/albertferras) | [65/72](21-Zero-Terminated-Sum.speed.asm) by [@AlanDeSmet](https://github.com/AlanDeSmet)|
 | 22 | Fibonacci Visitor | [18/19](22-Fibonacci-Visitor.size.asm) by [@cowboy](https://github.com/cowboy) | [ 58/156](22-Fibonacci-Visitor.speed.asm) by [@Patrick-Jakubowski](https://github.com/Patrick-Jakubowski) |
 | 23 | [The Littlest Number](23-The-Littlest-Number.size.speed.asm) | 12/13 by [@peterfreese](https://github.com/peterfreese) | 71/75 by [@peterfreese](https://github.com/peterfreese) |
 | 24 | [Mod Module](24-Mod-Module.size.speed.asm) | 11/12 by [@nanashi-juanto](https://github.com/nanashi-juanto) | 53/57 by [@nanashi-juanto](https://github.com/nanashi-juanto) |
-| 25 | [Cumulative Countdown](25-Cumulative-Countdown.size.speed.asm) | 11/12 by [@pyaehtetaung](https://github.com/pyaehtetaung) | 82/82 by [@pyaehtetaung](https://github.com/pyaehtetaung) |
+| 25 | Cumulative Countdown | [11/12](25-Cumulative-Countdown.size.asm) by [@pyaehtetaung](https://github.com/pyaehtetaung) | [79/82](25-Cumulative-Countdown.speed.asm) by [@Multirez](https://github.com/Multirez) |
 | 26 | Small Divide | [15/15](26-Small-Divide.size.asm) by [@FireGoblin](https://github.com/FireGoblin) | [74/76](26-Small-Divide.speed.asm) by [@ekx](https://github.com/ekx) |
 | _27_ | _Midnight Petroleum_ | &ndash; | &ndash; |
-| 28 | Three Sort | [33/34](28-Three-Sort.size.asm) by [@Patrick-Jakubowski](https://github.com/Patrick-Jakubowski) | [73/78](28-Three-Sort.speed.asm) by [@AlanDeSmet](https://github.com/AlanDeSmet) |
+| 28 | Three Sort | [32/34](28-Three-Sort.size.asm) by [@albertferras](https://github.com/albertferras) | [73/78](28-Three-Sort.speed.asm) by [@AlanDeSmet](https://github.com/AlanDeSmet) |
 | 29 | Storage Floor | [5/5](29-Storage-Floor.size.asm) | [20/25](29-Storage-Floor.speed.asm) by [@AlanDeSmet](https://github.com/AlanDeSmet) | 
 | 30 | [String Storage Floor](30-String-Storage-Floor.size.speed.asm) | 7/7 | 203/203 |
 | 31 | String Reverse | 10/11 by [@FireGoblin](https://github.com/FireGoblin) | 103/122 by [@FireGoblin](https://github.com/FireGoblin) |
@@ -98,3 +98,5 @@ To import one of these solutions into the game:
 * [@AlanDeSmet](https://github.com/AlanDeSmet) (Alan De Smet)
 * [@Gimlao](https://github.com/Gimlao)
 * [@szubster](https://github.com/szubster)
+* [@Multirez](https://github.com/Multirez)
+* [@albertferras](https://github.com/albertferras)
